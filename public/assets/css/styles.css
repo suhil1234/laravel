@@ -1,0 +1,48 @@
+body {
+    background: var(--bs-border-color-translucent);
+    color: rgb(255, 255, 255);
+}
+
+.masthead {
+    color: rgba(0, 0, 0, 0.64);
+}
+
+.navbar {
+    color: rgb(152, 34, 34);
+    background: rgba(52, 58, 64, 0);
+}
+
+.navbar-brand {
+    background: var(--bs-btn-bg);
+    color: var(--bs-link-color);
+    font-weight: bold;
+    border-color: #ffd700;
+}
+
+.navbar-toggler-icon {
+    width: 21px;
+}
+
+.intro-text {
+    text-align: left;
+    color: rgb(77, 0, 0);
+}
+
+.intro-heading {
+    color: var(--bs-link-color);
+}
+
+.bg-light {
+    background: rgb(50, 20, 113);
+    border-color: rgb(205, 21, 21);
+    color: rgb(40, 12, 12);
+}
+
+.section-heading {
+    padding-bottom: 43px;
+    color: rgb(255, 215, 0);
+}
+
+.d-flex{
+    color: rgb(255,215,0);text-align: center;
+}
